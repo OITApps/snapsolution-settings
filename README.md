@@ -1,1 +1,1 @@
-A set of import files for setting we commonly add to new systems. Caution should be used adding them to systems already in production.
+A set of import files for setting we commonly add to new systems. Caution should be used adding them to systems already in production - use them as a reference as import without review may overwrite intentional changes you've made to your systems. 
