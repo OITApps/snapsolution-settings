@@ -1,0 +1,3 @@
+"config_name","config_value","geo"
+"DeviceAllowUriUpdate","yes","yes"
+"RejDoNotProcess","friendly-scanner,pplsip,eyeBeam,Twinkle,sipsak,smap,sipcli,Vicidial,eXosip,TANDBERG,sipvicious,sip-scan,sipsak,sundayddr,iWar","yes"
